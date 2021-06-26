@@ -3,4 +3,5 @@ Ewa Beach, Hawaii
 Manhattan, Kansas
 randomcity
 Boston, Massachusetts
+Seattle, Washington
 Washington DC
